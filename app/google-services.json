@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260822383528",
+    "firebase_url": "https://smart-ess.firebaseio.com",
+    "project_id": "smart-ess",
+    "storage_bucket": "smart-ess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260822383528:android:1a7a06898368825684bb9d",
+        "android_client_info": {
+          "package_name": "com.aladar.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260822383528-5bkuk938d8eh8qjorpt56q318ok95304.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aladar.pushnotifications",
+            "certificate_hash": "83fe84e47c09aa41cd8403b84eb0b6aaf6fbad25"
+          }
+        },
+        {
+          "client_id": "260822383528-6o9t3oubgb2tvldf8gdp4hml2m58kuc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXPDUoGLO3bkU5VgJlzaj0bdvaMS7oWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260822383528-6o9t3oubgb2tvldf8gdp4hml2m58kuc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
